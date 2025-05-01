@@ -30,6 +30,50 @@ This project is a complete **Movie Recommendation System** built using **Content
 
 ---
 
-## 📁 Project Structure
 
-├── app.py # Streamlit UI ├── recommendation.py # Model and logic ├── movie_list.pkl # Pickled DataFrame ├── similarity.pkl # Pickled similarity matrix ├── dataset/ # Movie datasets (CSV) ├── powerbi_dashboards/ # Power BI reports/screenshots ├── README.md # You're here!
+---
+
+## 💡 How It Works
+
+1. Data is cleaned and combined into meaningful tags.
+2. TF-IDF is used to convert text data into numerical vectors.
+3. Cosine similarity measures closeness between movies.
+4. Top 5 recommendations are returned.
+5. Insights like genre popularity, ROI trends, and hidden clusters are visualised using Power BI.
+
+---
+
+## 📷 Screenshots
+
+| Dashboard | Recommendation UI |
+|-----------|-------------------|
+| ![dashboard](powerbi_dashboards/genre_dashboard.png) | ![streamlit](screenshots/streamlit_ui.png) |
+
+---
+
+## 🔮 Future Enhancements
+
+- 🎯 Add collaborative filtering with user ratings
+- 🌐 Deploy Streamlit app on cloud
+- 🧠 Integrate BERT-based NLP for better understanding of overviews
+- 💬 Add user feedback/sentiment layer
+
+---
+
+## 🙌 Acknowledgements
+
+- Datasets: TMDB, Kaggle  
+- Tools: Scikit-learn, Power BI, Streamlit  
+- Special thanks to mentors and peers for feedback!
+
+---
+
+## 📬 Contact
+
+Created by **Vaibhav Negi**  
+📧 Email: [YourEmail@example.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/vaibhav-negi-440740263/)
+
+---
+
+⭐ If you like this project, don’t forget to **star** it and share your feedback!
