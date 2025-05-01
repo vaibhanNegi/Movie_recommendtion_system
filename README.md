@@ -45,9 +45,15 @@ This project is a complete **Movie Recommendation System** built using **Content
 
 ## 📷 Screenshots
 
-| Dashboard | Recommendation UI |
-|-----------|-------------------|
-| ![Dashboard](dashboard/Screenshot%202025-05-01%20172317.png) | ![streamlit](screenshots/streamlit_ui.png) |
+## 📊 Project Dashboards & UI
+
+| Dashboard 1 | Dashboard 2 |
+|-------------|-------------|
+| ![Dashboard 1](dashboard/Dashboard1.png) | ![Dashboard 2](dashboard/Dashboard2.png) |
+
+| Dashboard 3 | Website UI |
+|-------------|------------|
+| ![Dashboard 3](dashboard/Dashboard3.png) | ![Website UI](dashboard/Website_UI.png) |
 
 ---
 
