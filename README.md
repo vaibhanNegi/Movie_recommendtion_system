@@ -47,7 +47,7 @@ This project is a complete **Movie Recommendation System** built using **Content
 
 | Dashboard | Recommendation UI |
 |-----------|-------------------|
-| ![dashboard](powerbi_dashboards/genre_dashboard.png) | ![streamlit](screenshots/streamlit_ui.png) |
+| ![Dashboard](dashboard/Screenshot%202025-05-01%20172317.png) | ![streamlit](screenshots/streamlit_ui.png) |
 
 ---
 
