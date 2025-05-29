@@ -77,7 +77,7 @@ This project is a complete **Movie Recommendation System** built using **Content
 ## 📬 Contact
 
 Created by **Vaibhav Negi**  
-📧 Email: [YourEmail@example.com]  
+📧 Email: [vaibhavn2024@gmail.com]  
 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhav-negi-440740263/)
 
 ---
